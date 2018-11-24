@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HW5", "HW5\HW5.pyproj", "{DF7611D3-6EE4-41E8-B458-AE0EDF5C2C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7611D3-6EE4-41E8-B458-AE0EDF5C2C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7611D3-6EE4-41E8-B458-AE0EDF5C2C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3076FE4D-D725-496C-A582-EC2D2C01484B}
+	EndGlobalSection
+EndGlobal
